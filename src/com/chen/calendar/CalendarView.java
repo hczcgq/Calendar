@@ -16,6 +16,11 @@ import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 import android.widget.TextView;
 
+/**
+ * 自定义日历视图
+ * @author acer
+ *
+ */
 public class CalendarView extends BaseAdapter {
 	private Context context;
 	
